@@ -1,0 +1,22 @@
+
+            li.menu {
+                display: inline;
+            }
+            h1 {
+                color: rgb(12, 194, 187);
+                font-size: 50px;
+            }
+            a.menu {
+                font-size: 25px;
+                background-color: chartreuse;
+                font-family: 'Franklin Gothic Medium';
+                font-weight: medium;
+                text-decoration: none;
+                padding: 15px;
+                margin: 5px;
+                border-radius: 10px;
+            }
+            td.pizza {
+                padding: 30px;
+            }
+            
